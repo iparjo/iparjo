@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! 👋
+
+I’ve always been an enthusiast of technology. One of my passions has always been learning, it doesn’t matter which subject. I find it one of the best ways to enjoy life in general. Sometimes I find puzzles a good measure to relax and do some mental training.
+
+We live in a world where technology is getting stronger every day and improving in a lot of ways, but making us more exposed and vulnerable too. That’s made me more interested in the field of cybersecurity over the years. So I’d hope to get an entry-level cybersecurity position, to make my contribution and be able to create a safer place on the internet. I hope having the Google Cybersecurity Certificate can make me a better candidate and allow me to get a role on the field.
 
 <!--
 **iparjo/iparjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
