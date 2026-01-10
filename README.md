@@ -9,6 +9,8 @@
 - Practical challenges & labs  
 - Continuous learning & documentation
 
+⬇️ Below you will find my documented Portfolio where you can see how to find everything I've worked on.
+
 <!--
 **iparjo/iparjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
